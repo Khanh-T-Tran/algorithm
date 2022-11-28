@@ -1,6 +1,7 @@
 # JavaScript Algorithm
 ```
-This project is a collection of some of the most important and common algorithm based on some of the free online courses and books.
+This project is a collection of some of the most important and common algorithm based
+ on some of the free online courses and books.
 https://frontendmasters.com/courses/algorithms/
 https://www.freecodecamp.org/news/the-working-developers-guide-to-algorithms/
 
