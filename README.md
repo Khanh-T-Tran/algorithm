@@ -21,10 +21,10 @@ https://www.freecodecamp.org/news/the-working-developers-guide-to-algorithms/
 11. [Quick-Sort](#Quick_Sort)
 12. [Linked-List](#Linked_List)
 13. [Trees](#Trees)
-13. [Trees-Search](#Trees_Search)
-13. [Heap](#Heap)
-13. [Graphs](#Graphs)
-13. [Maps-LRU](#Maps_LRU)
+14. [Trees-Search](#Trees_Search)
+15. [Heap](#Heap)
+16. [Graphs](#Graphs)
+17. [Maps-LRU](#Maps_LRU)
 
 
 
